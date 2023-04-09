@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17825102135",
+    "project_id": "talngoapp-69b1c",
+    "storage_bucket": "talngoapp-69b1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17825102135:android:3a2827b3eb7f4673de02b2",
+        "android_client_info": {
+          "package_name": "com.example.talngo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17825102135-afvb2jrjpecia47h83bii4vuho8neh0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6xZkXue-6hGrb-Oj9-UVE6-ODSTFGkJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17825102135-afvb2jrjpecia47h83bii4vuho8neh0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

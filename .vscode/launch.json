@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "talngo_app",
+            "cwd": "talngo_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "talngo_app (profile mode)",
+            "cwd": "talngo_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "talngo_app (release mode)",
+            "cwd": "talngo_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
